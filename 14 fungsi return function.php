@@ -5,4 +5,4 @@ function jumlahkan($a, $b) {
 }
 
 echo jumlahkan(10, 10); // Output: 15
-echo "<P><strong>by:jihan syafitri";
+echo "<P><strong>by:jihann syafitri";
