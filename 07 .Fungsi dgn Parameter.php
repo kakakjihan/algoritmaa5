@@ -15,6 +15,6 @@ perkenalan("jihan", "Hallo");
   $ucapanSalam = "Selamat siang";
   // memanggilnya lagi
   perkenalan($saya, $ucapanSalam);
-  echo "<P><strong>by:jihan syafitri";
+  echo "<P><strong>by:jihann syafitri";
 ?>
 
