@@ -37,5 +37,5 @@ if (isset($_POST['jarak']) && isset($_POST['cepat'])) {
     <h3>Waktu Tempuh : $waktu jam</h3>
     ";
 }
-echo "<P><strong>by:jihan syafitri";
+echo "<P><strong>by:jihann syafitri";
 ?>
