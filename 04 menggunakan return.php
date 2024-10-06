@@ -10,4 +10,4 @@ function report($bulan) {
 echo report(2); // Hasil Report belum tersedia;
 echo report(5); // Hasil Report belum tersedia;
 echo "<hr>";
-echo "<P><strong>by:jihan syafitri";
+echo "<P><strong>by:jihann syafitri";
