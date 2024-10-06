@@ -9,7 +9,7 @@
 	<?php
 	if ($_POST)
 	{
-		echo 'Nama: ' . $_POST['nama'];
+		echo 'Namaa: ' . $_POST['nama'];
 		echo '<br>';
 		echo 'Email: ' . $_POST['email'];
 	}
