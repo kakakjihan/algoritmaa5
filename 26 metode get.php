@@ -12,7 +12,7 @@
     </form>
     <?php
     if ($_GET) {
-        echo "Nama: " . $_GET["nama"];
+        echo "Namaa: " . $_GET["nama"];
         echo "<br/>";
         echo "Umur: " . $_GET["umur"];
     
