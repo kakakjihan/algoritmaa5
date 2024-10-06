@@ -8,4 +8,4 @@ $bulan = nama_bulan(3);
 echo '<pre>'; print_r($bulan);
 $bulan = nama_bulan(2);
 echo '<pre>'; print_r($bulan);
-echo "<P><strong>by:jihan syafitri";
+echo "<P><strong>by:jihann syafitri";
