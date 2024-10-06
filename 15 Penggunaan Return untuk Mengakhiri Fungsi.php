@@ -7,4 +7,4 @@ function cekUmur($umur) {
 }
 
 echo cekUmur(16); // Output: Maaf, kamu belum cukup umur.
-echo "<P><strong>by:jihan syafitri";
+echo "<P><strong>by:jihann syafitri";
