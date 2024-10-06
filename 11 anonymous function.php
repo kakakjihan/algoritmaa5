@@ -23,4 +23,4 @@ $bulan = nama_bulan(3, function($val) {
 });
 echo $bulan; // Hasil: maret
 echo "<hr>";
-echo "<P><strong>by:jihan syafitri";
+echo "<P><strong>by:jihann syafitri";
