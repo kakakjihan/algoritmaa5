@@ -19,4 +19,4 @@ sapa('putri'); // menggunakan argumen yang diberikan, "Budi"
 function contohFungsi($wajib, $opsional = 'default') {
     // Kode fungsi...
 }
-echo "<P><strong>by:jihan syafitri";
+echo "<P><strong>by:jihann syafitri";
