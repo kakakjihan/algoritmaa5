@@ -18,4 +18,4 @@ if(empty($var3)) {
 if(empty($var4)) {
     echo '$var4 kosong<br><hr>';
 }
-echo "<P><strong>by:jihan syafitri";
+echo "<P><strong>by:jihann syafitri";
