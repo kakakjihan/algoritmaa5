@@ -13,7 +13,7 @@ echo "faktorial 8 adalah " . faktorial(8);
 echo "<hr>";
 echo "<br>faktorial 6 adalah " . faktorial(6);
 echo "<hr>";
-echo "<P><strong>by:jihan syafitri";
+echo "<P><strong>by:jihann syafitri";
 
 ?>
 
