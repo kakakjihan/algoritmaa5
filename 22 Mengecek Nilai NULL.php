@@ -6,5 +6,5 @@ if (isset($var3)) {
 } else {
     echo "Variabel 'var3' belum di-set atau `NULL`.";
 }
-echo "<P><strong>by:jihan syafitri";
+echo "<P><strong>by:jihann syafitri";
 ?>
