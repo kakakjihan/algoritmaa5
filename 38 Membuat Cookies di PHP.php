@@ -5,5 +5,5 @@ if(isset($_COOKIE["user"])) {
 } else {
     echo "<br>Selamat datang, tamu!<br><hr>";
     echo "Sampai jumpa!";
-}echo "<P><strong>by:jihann syafitri";
+}echo "<P><strong>by:jihan syafitri";
 
