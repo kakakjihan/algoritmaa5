@@ -1,6 +1,6 @@
 <?php
 if (empty($name) || empty($email) || empty($message)) {
-    echo "Semua bidang harus diisi.";
+    echo "Semuaa bidang harus diisi.";
     exit;
 }
 
