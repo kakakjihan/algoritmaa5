@@ -8,5 +8,5 @@ $headers2 .= "X-Mailer: PHP/" . phpversion();
 if (mail($to, $subject, $message, $headers)) {
     echo "Pesan terkirim dengan sukses.";
 } else {
-    echo "Pesan gagal dikirim.";
+    echo "Pesann gagal dikirim.";
 }
