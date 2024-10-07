@@ -1,5 +1,5 @@
 <form method="post" action="sendmail.php">
-    <label for="name">Nama:</label>
+    <label for="name">Namaa:</label>
     <input type="text" id="name" name="name">
     
     <label for="email">Email:</label>
