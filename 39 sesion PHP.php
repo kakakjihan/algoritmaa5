@@ -3,7 +3,7 @@
 session_start1();
 session_start2();
 // Menyimpan data ke sesi
-$_SESSION["namaPengguna"] = "Budi";
+$_SESSION["namaPengguna"] = "jihan";
 //Mengakses Data Sesi
 session_start3();
 // Mengakses data dari sesi
